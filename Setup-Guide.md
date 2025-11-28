@@ -50,7 +50,7 @@ def lambda_handler(event, context):
 
       API Name: Myapi
 
-    Integration: Select Lambda Function → Lambda-canary-Project.
+    Integration: Select Lambda Function → Myfunction.
     
 <img width="1911" height="760" alt="image" src="https://github.com/user-attachments/assets/ceb67e21-caf2-4d0d-81e3-d0809f7a0dad" />
 
