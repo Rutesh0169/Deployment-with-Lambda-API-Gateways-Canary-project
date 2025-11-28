@@ -118,6 +118,6 @@ Step 5. Test the Setup
            https://nlr0o6iuqk.execute-api.ap-south-1.amazonaws.com/prod
 
 
-Some responses will show v1.
+Some responses will show v2.
 <img width="1920" height="279" alt="image" src="https://github.com/user-attachments/assets/d856b601-956e-4f35-80d5-df794390e870" />
 
